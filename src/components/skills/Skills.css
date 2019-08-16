@@ -1,0 +1,34 @@
+#tituloSkills{
+    width: 100%;
+    height: 25%;
+    text-align: left;
+    margin-top: 10px;
+       color: black;
+  
+}
+#tituloSkills h1{
+    margin-left: 30px;
+}
+
+#descricao li{
+  
+    color: rgba(0, 0, 0, 0.8);
+    font-family: 'Lexend Deca', sans-serif;
+    font-weight: 500;
+    overflow-wrap: break-word;
+    font-kerning: normal;
+    margin-left: 25px;
+    font-size: 16px;
+  
+}
+#descricao{
+    display: flex;
+    color: black;
+   justify-content: space-between;
+}
+#descricao ul {
+    width: 33%
+}
+#descricao h4{
+    margin-left: 20px;
+}
